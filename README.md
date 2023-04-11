@@ -34,7 +34,8 @@ application/json
 ### Response status codes
 ```
 Success - 200 with body
-Failed - 400 external api is not working
+Failed - 204 external api is not working
+Failed - 400 request send not supported cryptocurrency or currency for conversion
 Failed - 406 body value is incorrect or empty
 ```
 ### Response body for code 200
