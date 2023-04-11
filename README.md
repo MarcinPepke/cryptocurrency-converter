@@ -11,6 +11,13 @@ For linux run
 
 export db_host=localhost
 
+
+## Supported cryptocurrency
+BTC, ETH
+
+## Supported Currency
+USD
+
 # Rest endpoints
 
 ## /api/convert
